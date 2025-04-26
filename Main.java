@@ -1,5 +1,8 @@
 import java.util.ArrayList;
 
+/**
+ * Main class to demonstrate sorting Student objects using a custom selection sort.
+ */
 public class Main {
     public static void main(String[] args) {
         ArrayList<Student> students = new ArrayList<>();
