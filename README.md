@@ -32,22 +32,21 @@ No Java Collections sort methods (`Collections.sort`, `Arrays.sort`, etc.) were 
 ## Source Code Screenshots
 
 ### Student.java Source Code
-![Student.java Source Code](Screenshots/StudentSC.png)
-![Student.java Continued](Screenshots/StudentSC2.png)
+![Student.java Source Code](Screenshots/Student.png)
 
 ### NameComparator.java Source Code
-![NameComparator.java Source Code](Screenshots/NameComparatorSC.png)
+![NameComparator.java Source Code](Screenshots/NameComparator.png)
 
 ### SelectionSorter.java Source Code
-![SelectionSorter.java Source Code](Screenshots/SelectionSorterSC.png)
+![SelectionSorter.java Source Code](Screenshots/SelectionSorter.png)
 
 ### RollnoComparator.java Source Code
-![RollnoComparator.java Source Code](Screenshots/RollnoComparatorSC.png)
+![RollnoComparator.java Source Code](Screenshots/RollnoComparator.png)
 
 ### Main.java Source Code
-![Main.java Source Code](Screenshots/MainSC.png)
+![Main.java Source Code](Screenshots/Main.png)
 
 ## Program Output Screenshot
 
 ### Source Code Output
-![Program Output](Screenshots/SourceOutput.png)
+![Program Output](Screenshots/MainOutput.png)
